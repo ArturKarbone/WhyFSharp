@@ -1,0 +1,12 @@
+D:\MyGithub\WhyFSharp\ASimpleSum\bin\Debug\ASimpleSum.pdb
+D:\MyGithub\WhyFSharp\ASimpleSum\obj\Debug\ASimpleSum.csprojResolveAssemblyReference.cache
+D:\MyGithub\WhyFSharp\ASimpleSum\obj\Debug\ASimpleSum.pdb
+D:\MyGithub\WhyFSharp\ASimpleSum\bin\Debug\ASimpleSum.dll.config
+D:\MyGithub\WhyFSharp\ASimpleSum\bin\Debug\ASimpleSum.dll
+D:\MyGithub\WhyFSharp\ASimpleSum\obj\Debug\ASimpleSum.dll
+D:\MyGithub\WhyF#\ASimpleSum\bin\Debug\ASimpleSum.dll.config
+D:\MyGithub\WhyF#\ASimpleSum\bin\Debug\ASimpleSum.dll
+D:\MyGithub\WhyF#\ASimpleSum\bin\Debug\ASimpleSum.pdb
+D:\MyGithub\WhyF#\ASimpleSum\obj\Debug\ASimpleSum.csprojResolveAssemblyReference.cache
+D:\MyGithub\WhyF#\ASimpleSum\obj\Debug\ASimpleSum.dll
+D:\MyGithub\WhyF#\ASimpleSum\obj\Debug\ASimpleSum.pdb

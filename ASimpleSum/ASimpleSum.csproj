@@ -60,6 +60,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FunctionalSumOfSquaresService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SumOfSquaresService.cs" />
   </ItemGroup>

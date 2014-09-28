@@ -7,12 +7,3 @@ D:\MyGithub\WhyFSharp\ASimpleSum.Tests\bin\Debug\nunit.framework.xml
 D:\MyGithub\WhyFSharp\ASimpleSum.Tests\obj\Debug\ASimpleSum.Tests.csprojResolveAssemblyReference.cache
 D:\MyGithub\WhyFSharp\ASimpleSum.Tests\obj\Debug\ASimpleSum.Tests.dll
 D:\MyGithub\WhyFSharp\ASimpleSum.Tests\obj\Debug\ASimpleSum.Tests.pdb
-D:\MyGithub\WhyF#\ASimpleSum.Tests\bin\Debug\ASimpleSum.Tests.dll
-D:\MyGithub\WhyF#\ASimpleSum.Tests\bin\Debug\ASimpleSum.Tests.pdb
-D:\MyGithub\WhyF#\ASimpleSum.Tests\bin\Debug\ASimpleSum.dll
-D:\MyGithub\WhyF#\ASimpleSum.Tests\bin\Debug\nunit.framework.dll
-D:\MyGithub\WhyF#\ASimpleSum.Tests\bin\Debug\ASimpleSum.pdb
-D:\MyGithub\WhyF#\ASimpleSum.Tests\bin\Debug\nunit.framework.xml
-D:\MyGithub\WhyF#\ASimpleSum.Tests\obj\Debug\ASimpleSum.Tests.csprojResolveAssemblyReference.cache
-D:\MyGithub\WhyF#\ASimpleSum.Tests\obj\Debug\ASimpleSum.Tests.dll
-D:\MyGithub\WhyF#\ASimpleSum.Tests\obj\Debug\ASimpleSum.Tests.pdb

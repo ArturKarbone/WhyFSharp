@@ -43,3 +43,10 @@ module FactorialTests=
     let ``Should calculate right factorial for pattern matching approach 2`` (testCase) =
         let factorial = Factorial.calcuateWithPatternMatching2 testCase.N
         Assert.AreEqual(testCase.Result,factorial)
+
+
+    [<Test>]
+    [<TestCaseSource("FactorialCases")>]
+    let ``Should calculate right factorial for lambda approach`` (testCase) =
+        let factorial = Factorial.calcuateWithLambda testCase.N
+        Assert.AreEqual(testCase.Result,factorial)

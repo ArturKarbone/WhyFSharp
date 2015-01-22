@@ -18,3 +18,8 @@ module Factorial =
         match n with
         |0|1->1I
         |n-> calcuateWithLambda(n-1) * bigint(n)
+
+//    let rec calcuateWithLambda2 = fun n ->
+//        function
+//            |0|1->1I
+//            |n-> calcuateWithLambda2(n-1) * bigint(n)
